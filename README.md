@@ -1,2 +1,2 @@
-# Javascript Review Project by write_your_full_name
+# Javascript Review Project by Kobe Bryan A. Amaro
 This project is a review of JavaSript concepts, for beginner to advance.
